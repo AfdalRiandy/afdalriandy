@@ -5,4 +5,3 @@ With over 1 year of development experience, I specialize in kotlin, C, And Java.
 
 📫 How to reach me afdalriandy27@gmail.com
 
-📄 Know about my experiences www.afdalr.my.id
