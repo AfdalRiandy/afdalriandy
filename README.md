@@ -1,9 +1,17 @@
-### Hi 👋, I'm AFDAL RIANDY
+# 👋 Hi there, I'm **Afdal Riandy** — Full Stack Developer
 
-Hello! I'm a passionate Front End Developer with experience in creating modern web applications. I love turning complex problems into simple, beautiful, and intuitive solutions.
-With over 1 year of development experience, I specialize in kotlin, C, And php. and several software such as Adobe Photoshop, Adobe Illustrator, Canva, Corel Draw, I'm always eager to learn new technologies and take on challenging projects.
+I'm a creative and detail-oriented **Full Stack Developer** with over **1 year of experience** in building dynamic, user-friendly web applications. My main tech stack revolves around **Laravel**, and I enjoy crafting seamless back-end systems while also paying attention to front-end aesthetics.
 
-💬 Ask me about Kotlin , C , java , Php , Javascript
+🚀 I love blending technology with creativity — often leveraging **AI tools** to streamline development, generate ideas, and optimize productivity. Whether it's web systems, APIs, or smart automation, I'm always up for a challenge!
 
-📫 How to reach me afdalriandy27@gmail.com
+### 🧰 Tech Stack
+- **Languages**: PHP, JavaScript, Html, Css, Sql
+- **Frameworks**: Laravel, Bootstrap, Tailwind Css
+- **Tools & Tech**: Git, Firebase, MySQL, REST API
+- **Design Tools**: Adobe Photoshop, Illustrator, Canva, Figma
 
+### 📬 Let’s Connect!
+📧 Email: afdalriandy27@gmail.com  
+🌐 Portfolio/Website: _Coming soon..._
+
+> “Code is poetry, and I’m here to write stories worth building.” ✨
