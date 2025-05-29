@@ -29,6 +29,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+GitHub Stats 
+![Afdal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfdalRiandy&show_icons=true&theme=radical)
+
+---
 
 ## 📫 Get in Touch
 
