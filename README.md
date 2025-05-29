@@ -41,7 +41,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfdalRiandy&show_icons=true&theme=tokyonight" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfdalRiandy&layout=compact&theme=tokyonight" width="350" />
 </p>
 
